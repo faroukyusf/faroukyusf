@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusf @m-yusf
-- 👀 I’m interested in Quantum Computing/Quantum Algorithms as well as Physics.
+- 👀 I’m interested in Quantum Computing & Algorithms, Quantum Information Science as well as Physics.
 - 🌱 I’m currently building my toy models of Machine Learning.
 - 💞️ I’m looking to work/collaborate on real world applications of Quantum Computing.
 - 📫 How to reach me email: mf1478@msstate.edu.
